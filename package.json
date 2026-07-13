@@ -2,6 +2,7 @@
   "name": "pet-adoption-api",
   "version": "1.0.0",
   "description": "Backend API for pet adoptions",
+  "type": "module",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
